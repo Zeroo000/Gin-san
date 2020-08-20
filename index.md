@@ -44,7 +44,7 @@ The Bot was aimed to be a **Multifunctional Bot** that can provide you **Fun**, 
 **Feature Setup**
 - **User Join/Leave message**.
      - Head to a channel and change its topic to `<join:leave>`
-![Join/Leave](https://i.postimg.cc/Sx7Z6brm/Screenshot-20200718-213932.jpg)
+![Join/Leave](https://i.postimg.cc/GmG6qk0G/20200821-044927.png)
 
 - **Phone Call**
      - Head to a channel and change its topic to `<pz:phone>`
