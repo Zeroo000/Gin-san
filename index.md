@@ -1,3 +1,5 @@
+![Logo](https://i.postimg.cc/FFcLDRW3/images-4.jpg)
+
 ## Gin-san Discord Bot
 
 Links
