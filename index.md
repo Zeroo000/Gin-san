@@ -4,6 +4,18 @@
 
 A **Discord Bot** with **Multiple Features** like **Music**, **Moderation**, **Fun** and *more!*
 
+### Getting Started
+The steps below will be your guide on how to invite the Bot properly into your server.
+
+1. **Invite The Bot** into your server.
+Invite Link: **[Click me!](https://bit.ly/2NtdTWy)**
+
+2. **Put Gin-san Role on the very top of the roles**.
+So you will not have to worry about having **permission errors**. The bot has no **Administrator Permission** and it doesn't need to have one. But you can freely put the permission if you want to. Don't worry about setting up the Permissions because it's already in the **Invite Link**.
+
+3. **All set!**
+All finished! You are ready to use Gin-san.
+
 ### About
 
 **Gin-san** a bot that is made and developed by **[Zero'#2726](https://discord.gg/ZsSx8XB)**
@@ -17,15 +29,5 @@ The Bot was aimed to be a **Multifunctional Bot** that can provide you **Fun**, 
 # Memes
 # Moderation
 # Single/Multiplayer Games
-     - _and more!_
+    and more!
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zeroo000/ginsan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
