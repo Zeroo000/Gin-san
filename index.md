@@ -2,28 +2,22 @@
 
 **Gin-san is** a **Multifunctional Bot** with over **200+ Commands**!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A **Discord Bot** with **Multiple Features** like **Music**, **Moderation**, **Fun** and *more!*
 
-### Markdown
+### About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Gin-san** a bot that is made and developed by **[Zero'#2726](https://discord.gg/ZsSx8XB)**
 
+The Bot was aimed to be a **Multifunctional Bot** that can provide you **Fun**, **Moderation** and such which is one as of now! And we want to maintain that as long as we can.
+ 
+- **Gin-san** contain features like:
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# Music
+# Memes
+# Moderation
+# Single/Multiplayer Games
+     - _and more!_
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
