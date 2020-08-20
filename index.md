@@ -38,8 +38,10 @@ The Bot was aimed to be a **Multifunctional Bot** that can provide you **Fun**, 
 **Help Command**
 - `gin help`
      - To show all **available commands.**
+![Help](https://i.postimg.cc/SQ8ywzpQ/Screenshot-2020-0821-050301.png)
 - `gin help <command>`
      - To show a **specific command usage and information.**
+![Help Command](https://i.postimg.cc/vmpJz3Tr/Screenshot-2020-0821-050505.png)
 
 **Feature Setup**
 - **User Join/Leave message**.
