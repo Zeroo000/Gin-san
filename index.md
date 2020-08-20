@@ -36,8 +36,19 @@ The Bot was aimed to be a **Multifunctional Bot** that can provide you **Fun**, 
 ```
 ### Commands
 **Help Command**
-- To show all available commands execute `gin help`
-- To show a specific command's usage/info execute `gin help <command>`
+- `gin help`
+     - To show all **available commands.**
+- `gin help <command>`
+     - To show a **specific command usage and information.**
+
+**Feature Setup**
+- **User Join/Leave message**.
+     - Head to a channel and change its topic to `<join:leave>`
+![Join/Leave](https://i.postimg.cc/Sx7Z6brm/Screenshot-20200718-213932.jpg)
+
+- **Phone Call**
+     - Head to a channel and change its topic to `<pz:phone>`
+![Phone Call](https://i.postimg.cc/yYfxkDqK/Screenshot-20200718-214403.jpg)
 
 
 
