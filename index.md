@@ -48,7 +48,7 @@ The Bot was aimed to be a **Multifunctional Bot** that can provide you **Fun**, 
 
 - **Phone Call**
      - Head to a channel and change its topic to `<pz:phone>`
-![Phone Call](https://i.postimg.cc/yYfxkDqK/Screenshot-20200718-214403.jpg)
+![Phone Call](https://i.postimg.cc/sxCTBLXL/Screenshot-2020-0821-045531.png)
 
 
 
