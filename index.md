@@ -23,11 +23,10 @@ All finished! You are ready to use Gin-san.
 The Bot was aimed to be a **Multifunctional Bot** that can provide you **Fun**, **Moderation** and such which is one as of now! And we want to maintain that as long as we can.
  
 - **Gin-san** contain features like:
-```markdown
-
-# Music
-# Memes
-# Moderation
-# Single/Multiplayer Games
+```
+• Music
+• Memes
+• Moderation
+• Single/Multiplayer Games
     and more!
 ```
