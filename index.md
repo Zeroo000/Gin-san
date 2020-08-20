@@ -1,5 +1,3 @@
-![Logo](https://i.postimg.cc/FFcLDRW3/images-4.jpg)
-
 ## Gin-san Discord Bot
 
 Links
@@ -15,7 +13,7 @@ The steps below will be your guide on how to invite the Bot properly into your s
 
 1. **Invite The Bot** into your server.
 - Invite Link: **[Click me!](https://bit.ly/2NtdTWy)**
-![Invite](https://i.postimg.cc/xTcPfYtd/Screenshot-2020-0821-050810.png)
+![Invite](https://i.postimg.cc/nLt59MP2/Screenshot-2020-0821-051651.png)
 
 2. **Put Gin-san Role on the very top of the roles**.
 - So you will not have to worry about having **permission errors**. The bot has no **Administrator Permission** and it doesn't need to have one. But you can freely put the permission if you want to. Don't worry about setting up the Permissions because it's already in the **Invite Link**.
