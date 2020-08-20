@@ -3,6 +3,7 @@
 Links
 - **[Invite Bot](https://bit.ly/2NtdTWy)**
 - **[Support Server](https://discord.gg/ZsSx8XB)**
+- **[Upvote](https://top.gg/bot/524873335864033290)**
 
 **Gin-san is** a **Multifunctional Bot** with over **200+ Commands**!
 
@@ -56,5 +57,10 @@ The Bot was aimed to be a **Multifunctional Bot** that can provide you **Fun**, 
 ![Topic](https://i.postimg.cc/CKynVp69/Screenshot-2020-0821-045845.png)
 ![Phone Call](https://i.postimg.cc/sxCTBLXL/Screenshot-2020-0821-045531.png)
 
+### Upvote
+The **Bot Developer** hasn't spent any money not even a single penny on this Bot but it took time and effort. So we do not need any financial support from you but what we need from you is to upvote the bot inorder to attract more user. That's what we only need and if you did upvote the bot **Thank you!**
+Below is the **[TOP.GG](https://top.gg/bot/524873335864033290)** upvote.
+
+Upvote: **[TOP.GG](https://top.gg/bot/524873335864033290)**
 
 
