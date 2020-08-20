@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Gin-san Discord Bot
 
-You can use the [editor on GitHub](https://github.com/Zeroo000/ginsan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Gin-san is** a **Multifunctional Bot** with over **200+ Commands**!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
