@@ -14,11 +14,11 @@ The steps below will be your guide on how to invite the Bot properly into your s
 
 1. **Invite The Bot** into your server.
 - Invite Link: **[Click me!](https://bit.ly/2NtdTWy)**
-![Invite](https://i.postimg.cc/nLt59MP2/Screenshot-2020-0821-051651.png)
+- ![Invite](https://i.postimg.cc/nLt59MP2/Screenshot-2020-0821-051651.png)
 
 2. **Put Gin-san Role on the very top of the roles**.
 - So you will not have to worry about having **permission errors**. The bot has no **Administrator Permission** and it doesn't need to have one. But you can freely put the permission if you want to. Don't worry about setting up the Permissions because it's already in the **Invite Link**.
-![Role](https://i.postimg.cc/mDkPYZcz/Screenshot-2020-0821-050921.png)
+- ![Role](https://i.postimg.cc/mDkPYZcz/Screenshot-2020-0821-050921.png)
 
 3. **All set!**
 - All finished! You are ready to use Gin-san.
@@ -41,21 +41,21 @@ The Bot was aimed to be a **Multifunctional Bot** that can provide you **Fun**, 
 **Help Command**
 - `gin help`
      - To show all **available commands.**
-![Help](https://i.postimg.cc/SQ8ywzpQ/Screenshot-2020-0821-050301.png)
+- ![Help](https://i.postimg.cc/SQ8ywzpQ/Screenshot-2020-0821-050301.png)
 - `gin help <command>`
      - To show a **specific command usage and information.**
-![Help Command](https://i.postimg.cc/vmpJz3Tr/Screenshot-2020-0821-050505.png)
+- ![Help Command](https://i.postimg.cc/vmpJz3Tr/Screenshot-2020-0821-050505.png)
 
 **Feature Setup**
 - **User Join/Leave message**.
      - Head to a channel and change its topic to `<join:leave>`
-![ChTopic](https://i.postimg.cc/wTThWzSV/Screenshot-2020-0821-045816.png)
-![Join/Leave](https://i.postimg.cc/GmG6qk0G/20200821-044927.png)
+- ![Topic](https://i.postimg.cc/wTThWzSV/Screenshot-2020-0821-045816.png)
+- ![Join/Leave](https://i.postimg.cc/GmG6qk0G/20200821-044927.png)
 
 - **Phone Call**
      - Head to a channel and change its topic to `<pz:phone>`
-![Topic](https://i.postimg.cc/CKynVp69/Screenshot-2020-0821-045845.png)
-![Phone Call](https://i.postimg.cc/sxCTBLXL/Screenshot-2020-0821-045531.png)
+- ![Topic](https://i.postimg.cc/CKynVp69/Screenshot-2020-0821-045845.png)
+- ![Phone Call](https://i.postimg.cc/sxCTBLXL/Screenshot-2020-0821-045531.png)
 
 ### Upvote
 The **Bot Developer** hasn't spent any money not even a single penny on this Bot but it took time and effort. So we do not need any financial support from you but what we need from you is to upvote the bot inorder to attract more user. That's what we only need and if you did upvote the bot **Thank you!**
