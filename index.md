@@ -48,14 +48,14 @@ The Bot was aimed to be a **Multifunctional Bot** that can provide you **Fun**, 
      - To show a **specific command usage and information.**
 - ![Help Command](https://i.postimg.cc/vmpJz3Tr/Screenshot-2020-0821-050505.png)
 
-**Feature Setup**
-- **User Join/Leave message**.
-     - Head to a channel and change its topic to `<join:leave>`
+### Feature Setup
+**User Join/Leave message**
+- Head to a channel and change its topic to `<join:leave>`
 - ![Topic](https://i.postimg.cc/wTThWzSV/Screenshot-2020-0821-045816.png)
 - ![Join/Leave](https://i.postimg.cc/GmG6qk0G/20200821-044927.png)
 
-- **Phone Call**
-     - Head to a channel and change its topic to `<pz:phone>`
+**Phone Call**
+- Head to a channel and change its topic to `<pz:phone>`
 - ![Topic](https://i.postimg.cc/CKynVp69/Screenshot-2020-0821-045845.png)
 - ![Phone Call](https://i.postimg.cc/sxCTBLXL/Screenshot-2020-0821-045531.png)
 
