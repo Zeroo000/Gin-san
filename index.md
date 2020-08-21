@@ -69,21 +69,21 @@ Upvote: **[TOP.GG](https://top.gg/bot/524873335864033290)**
 ### Credits
 
 **Thanks to all the people** who helped make the bot **[Gin-san](https://bit.ly/34hcJqR)** possible:
-- Code/Development
+- **Code/Development**
      - Zero'#2726 _Owner_
      - XtraSaucee#7006 _Helped Code_
-- Bot Icon
+- **Bot Icon**
      - **[Google](https://www.google.com)**
-- Bot Supports
+- **Bot Supports**
      - Zero'#2726
      - XtraSaucee#7006
 
-_These people can help you with your questions and problems related to the bot. You can find them in the **[Support Server](https://discord.gg/ZsSx8XB)**
+_These people can help you with your questions and problems related to the bot. You can find them in the **[Support Server](https://discord.gg/ZsSx8XB)**_
 
-- Honourable Mentions
+- **Honourable Mentions**
      - ak_3vil#6821 _Server Moderator_
-- And you!
-     - It wouldn't be possible for Gin-san to reach at this point if there are no bot users. 
+- **And you!**
+     - It wouldn't be possible for **Gin-san** to reach at this point if there are no bot users. 
 
 ### Thank you!
 
