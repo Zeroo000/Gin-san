@@ -1,4 +1,6 @@
 ## Gin-san Discord Bot
+[![Discord](https://img.shields.io/discord/691741711814098994?color=7289da&label=discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/ZsSx8XB)
+
 
 Links
 - **[Invite Bot](https://bit.ly/2NtdTWy)**
@@ -62,5 +64,7 @@ The **Bot Developer** hasn't spent any money not even a single penny on this Bot
 Below is the **[TOP.GG](https://top.gg/bot/524873335864033290)** upvote.
 
 Upvote: **[TOP.GG](https://top.gg/bot/524873335864033290)**
+- [![Discord Bots](https://top.gg/api/widget/524873335864033290.svg)](https://top.gg/bot/524873335864033290)
+
 
 
