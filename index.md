@@ -6,6 +6,7 @@ Links
 - **[Invite Bot](https://bit.ly/2NtdTWy)**
 - **[Support Server](https://discord.gg/ZsSx8XB)**
 - **[Upvote](https://top.gg/bot/524873335864033290)**
+- **[Public Repository](https://github.com/Zeroo000/Project-Zero)**
 
 **Gin-san is** a **Multifunctional Bot** with over **200+ Commands**!
 
