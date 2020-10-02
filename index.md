@@ -34,6 +34,8 @@ The Bot was aimed to be a **Multifunctional Bot** that can provide you **Fun**, 
  
 - **Gin-san** contain features like:
 ```
+• Leveling System
+• Level Rewards (Roles)
 • Music
 • Memes
 • Moderation
