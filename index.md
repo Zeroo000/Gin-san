@@ -1,4 +1,4 @@
-## Gin-san Discord Bot
+## Gin-san Discord Bot (OUTDATED)
 [![Discord](https://img.shields.io/discord/691741711814098994?color=7289da&label=discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/ZsSx8XB)
 
 
